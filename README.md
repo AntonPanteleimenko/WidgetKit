@@ -1,6 +1,6 @@
 # WidgetKit
 
-  WidgetKit gives users ready access to content in your app by putting widgets on the iOS Home screen or macOS Notification Center. Your widgets stay up to date so users always have the latest information at a glance. When they need more details, your widget takes them directly to the appropriate place in your app.
+  WidgetKit gives users ready access to content in your app by putting widgets on the iOS Home screen or macOS Notification Center. Your widgets stay up to date so users always have the latest information at a glance. When they need more details, your widget takes them directly to the appropriate place in your app. You can find more information in a [presentation](https://drive.google.com/file/d/1Ttpjvm_T8cYquI0y5UZz3E-gKm1W_22X/view?usp=sharing) and video[iOS 14: Create a widget using WidgetKit](https://zonneveld.dev/ios-14-widgetkit/).
 
 ## Official Documentation links:
 
